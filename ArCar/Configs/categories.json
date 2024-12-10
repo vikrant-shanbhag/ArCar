@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Wheels",
+        "gradientColors": ["blue", "cyan"],
+        "usdzFileName": ""
+    },
+    {
+        "name": "Spoilers",
+        "gradientColors": ["green", "teal"],
+        "usdzFileName": ""
+    }
+]

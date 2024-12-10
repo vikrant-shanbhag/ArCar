@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "2A742C68-F4DB-4186-84A0-CE21F5C7B7E0": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "WheelDetector.mlmodel",
+            "path": "com.apple.CoreML/WheelDetector.mlmodel"
+        },
+        "3E927D76-209F-4D01-A313-A019BCF26C0F": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "4F1059C1-B1C2-414C-A6C3-8FBACC98C89F": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "2A742C68-F4DB-4186-84A0-CE21F5C7B7E0"
+}
